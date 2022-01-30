@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working as a freelancer on various freelancing platform
 
-- 🌱 I’m currently learning **ancho framework**
+- 🌱 I’m currently learning **anchor framework**
 
 - 👯 I’m looking to collaborate on **solidity development**
 
 - 💬 Ask me about **react, solidity, c++, algorithm**
 
-- 📫 How to reach me  💬 Telegram : [@moon0702](https://t.me/cryptoman0702),  📝 Email : cryptoman0702@gmail.com
+- 📫 How to reach me  💬 Telegram : [@tothemoon0702](https://t.me/cryptoman0702),  📝 Email : cryptoman0702@gmail.com
 
 - ⚡ Fun fact **I think I'm funny! :)**
 
