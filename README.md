@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Vault Protocol DAO](https://github.com/cryptoman0702/Vault-DAO)  
   
 
-- **🌱 I’m currently learning solana blockchain**  
+- **🌱 I’m currently learning solana**  
   
 
 - ❓ Ask me about anything related to MERN stack and blockchain  
