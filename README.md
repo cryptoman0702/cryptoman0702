@@ -1,14 +1,10 @@
-<div align="center">
+<!-- <div align="center">
   <h1>Hello, World!</h1>
 </div>  
   
 
 ### <div align="center">I'm The Moon :), a passionate blockchain engineer👨‍💻 working remotely since 2014 🚀</div>  
   
- <div>
-  <img align="right" alt="GIF" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" width="450"  />
-</div>
-
 
 
 - 🔭 I’m currently working on [Vault Protocol DAO](https://github.com/cryptoman0702/Vault-DAO)  
@@ -60,7 +56,6 @@
 
 <br/>  
 
-<div align="center">
-![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=blockchainGuru125&show_icons=true&theme=radical)
-</div>
-  
+![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=cryptoman0702&show_icons=true&theme=radical)
+
+  -->
