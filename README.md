@@ -1,27 +1,22 @@
-<div align="center" height="100px">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" />
+<div align="center">
+  <h1>Hello, World!</h1>
 </div>  
   
 
-### <div align="center">I'm the moon :), a full-time full-stack engineer👨‍💻 working remotely since 2016 🚀</div>  
+### <div align="center">I'm The Moon :), a passionate blockchain engineer👨‍💻 working remotely since 2014 🚀</div>  
   
+ <div>
+  <img align="right" alt="GIF" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif" width="450"  />
+</div>
+
+![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=blockchainGuru125&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on [Vault Protocol DAO](https://github.com/cryptoman0702/Vault-DAO)  
-  
-
-- **🌱 I’m currently learning solana**  
-  
-
-- ❓ Ask me about anything related to MERN stack and blockchain  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
+- **🌱 I’m currently learning solana & rust**
+- ❓ Ask me about anything related to blockchain  
+- ⚡ Fun fact: I like making bugs! :D 
 <br/>  
 
-
-## My Skill Set  
 <table><tr><td valign="top" width="50%">
 
 
@@ -66,60 +61,4 @@
 <br/>  
 
 
-## Connect with me  
-<a href="https://github.com/cryptoman0702" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/moon0702" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/cryptoman0702" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/cryptoman0702" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/cryptoman0702" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.com/cryptoman0702" target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cryptoman0702&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=cryptoman0702&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://paypal.me/cryptoman0702" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/cryptoman0702" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
