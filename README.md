@@ -1,3 +1,23 @@
+
+ ![Snake animation](https://github.com/cryptoman0702/cryptoman0702/github-contribution-grid-snake.svg) 
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+
+
+<p align="center">
+    <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=cryptoman0702&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"
+    /> <br>
+    <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptoman0702&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
+</p>
+
+
+
+
+
+
 <!-- <div align="center">
   <h1>Hello, World!</h1>
 </div>  
