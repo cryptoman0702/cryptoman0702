@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm The Moon :), a passionate blockchain engineer👨‍💻 working remotely since 2014 🚀</div>  
+### <div align="center">A generalist software dev who prefer working in a fast-paced environment and can learn fast 🚀</div>  
   
 - 🔭 I’m currently working on [Vault Protocol DAO](https://github.com/cryptoman0702/Vault-DAO)  
 - **🌱 I’m currently learning solana & rust**
