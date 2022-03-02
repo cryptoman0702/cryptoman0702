@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [Vault Protocol DAO](https://github.com/cryptoman0702/Vault-DAO)  
 - **🌱 I’m currently learning solana & rust**
 - ❓ Ask me about anything related to blockchain  
-- ⚡ Fun fact: I like making bugs! :D 
+- ⚡ Fun fact: I like making bugs! :D
 <br/>  
 
 <table><tr><td valign="top" width="50%">
