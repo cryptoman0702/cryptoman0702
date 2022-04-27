@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to blockchain  
 - ⚡ Fun fact: I like making bugs! :D
 <br/>  
-Contact me on Telegram: @cryptoman0702
+Contact me on <b>Telegram</b>: @cryptoman0702
 <br/>
 
 <table><tr><td valign="top" width="50%">
