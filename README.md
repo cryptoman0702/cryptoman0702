@@ -7,7 +7,7 @@
 
 ### <div align="center">A generalist software dev who prefer working in a fast-paced environment and can learn fast 🚀</div>  
   
-- 🔭 I’m currently working on [Vault Protocol DAO](https://github.com/cryptoman0702/Vault-DAO)  
+- 🔭 I’m currently working on Supreme Finance  
 - **🌱 I’m currently learning solana & rust**
 - ❓ Ask me about anything related to blockchain  
 - ⚡ Fun fact: I like making bugs! :D
