@@ -1,13 +1,13 @@
 
 
 <div align="center">
-  <h1>Hello, World</h1>
+  <h1>Hello, World!</h1>
 </div>  
   
 
 ### <div align="center">A generalist software dev who prefer working in a fast-paced environment and can learn fast 🚀</div>  
   
-- 🔭 I’m currently working on Supreme Finance  
+- 🔭 I’m currently working on GoldMint Finance  
 - **🌱 I’m currently learning rust**
 - ❓ Ask me about anything related to blockchain  
 - ⚡ Fun fact: I like making bugs! :D
