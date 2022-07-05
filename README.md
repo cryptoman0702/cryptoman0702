@@ -13,10 +13,6 @@
 - ❓ Ask me about anything related to blockchain 
 - 🤝 Looking forward to more partnership with talents
 - ⚡ Fun fact: I like making bugs! :D
-<br/>  
-
-### **_Contact Details_**
-
 <p align='center'>
   <a href="https://t.me/cryptoman0702">
     <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
@@ -31,10 +27,6 @@
     <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
-
-
-<br/>
-
 ## Tech stack
 
 <table><tr><td valign="top" width="50%">
