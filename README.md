@@ -1,19 +1,38 @@
 
 
 <div align="center">
-  <h1>Hello, World!</h1>
+  <h1>Hi there!</h1>
 </div>  
-  
-
-### <div align="center">A generalist software dev who prefer working in a fast-paced environment and can learn fast 🚀</div>  
-  
-- 🔭 I’m currently working on GoldMint Finance  
+## About Me
+✨ Full-Stack Blockchain developer specialized in DeFi and Solidity ✨
+- 😎 Interested in contributing expertise in web and blockchain development
+- 📚 Love reading books on personal development & financial literacy.
 - **🌱 I’m currently learning rust**
-- ❓ Ask me about anything related to blockchain  
+- ❓ Ask me about anything related to blockchain 
+- 🤝 Looking forward to more partnership with talents
 - ⚡ Fun fact: I like making bugs! :D
 <br/>  
-Contact me on <b>Telegram</b>: @cryptoman0702
+### **_Contact Details_**
+
+<p align='center'>
+  <a href="https://t.me/cryptoman0702">
+    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://join.skype.com/invite/N6wnlpkFrqQ9">
+    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:cryptoman0702@gmail.com">
+    <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+    <a href="https://discordapp.com/users/MrJames#8427">
+    <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
+
 <br/>
+
+## Tech stack
 
 <table><tr><td valign="top" width="50%">
 
