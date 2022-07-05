@@ -3,7 +3,9 @@
 <div align="center">
   <h1>Hi there!</h1>
 </div>  
+
 ## About Me
+
 ✨ Full-Stack Blockchain developer specialized in DeFi and Solidity ✨
 - 😎 Interested in contributing expertise in web and blockchain development
 - 📚 Love reading books on personal development & financial literacy.
@@ -12,6 +14,7 @@
 - 🤝 Looking forward to more partnership with talents
 - ⚡ Fun fact: I like making bugs! :D
 <br/>  
+
 ### **_Contact Details_**
 
 <p align='center'>
