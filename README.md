@@ -13,22 +13,7 @@
 - ❓ Ask me about anything related to blockchain 
 - 🤝 Looking forward to more partnership with talents
 - ⚡ Fun fact: I like making bugs! :D
-<!--
-<p align='center'>
-  <a href="https://t.me/cryptoman0702">
-    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/N6wnlpkFrqQ9">
-    <img src="https://img.shields.io/badge/skype-%231DA1F3.svg?&style=for-the-badge&logo=skype&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:cryptoman0702@gmail.com">
-    <img src="https://img.shields.io/badge/email me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-    <a href="https://discordapp.com/users/MrJames#8427">
-    <img src="https://img.shields.io/badge/discord me-%231DA1F3.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
---!>
+
 
 ## Tech stack
 
@@ -80,5 +65,3 @@
   <img  src="github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-
-
